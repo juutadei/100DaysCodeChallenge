@@ -12,4 +12,4 @@ Even though today (23/09/2023) was the day I promised to start the challenge, th
 I'm just starting my second project now, it's a minimalist weather app. I got inspired by the heat records we're facing right now... not fun at all. The project is also inspired by the ASMRprog channel; I watched it and decided to make one myself.
 #### Materials:
 <a href="https://boxicons.com/usage">Icons List</a>
-<a href="https://fonts.google.com/specimen/Poppins?query=popp">Poppins font</a>
+<p><a href="https://fonts.google.com/specimen/Poppins?query=popp">Poppins font</a></p>
