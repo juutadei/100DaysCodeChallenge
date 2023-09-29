@@ -6,4 +6,4 @@ I'm thinking about embarking on the 100-day challenge, committing to coding for 
 
 The idea is to work on a few small projects over these 100 days, starting with something modest and gradually taking on more extensive projects as time goes on. The reason I'm jumping into this rather suddenly is that I've been away from real coding for quite some time. It's been a while since I've been actively involved in this field, and I want to get back into it. I need to regain my familiarity with this world, and I won't deny that I also want to spruce up my GitHub profile.
 
-Today, I'm just initializing the repository. My plan is to kick things off this weekend (23/09/2023) and not skip a single day from then on. I'll be providing daily updates whenever I make modifications or embark on a new project.
+Today (23/09/2023), I'm just initializing the repository. My plan is to kick things off this weekend and not skip a single day from then on. I'll be providing daily updates whenever I make modifications or embark on a new project.
