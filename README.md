@@ -6,7 +6,7 @@ Hey there! 👋 I'm back on GitHub after a bit of a hiatus, and I'm ready to tak
 
 ## The Challenge 🚀
 
-I've decided to embark on the [100-day coding challenge](https://www.100daysofcode.com/), committing to code for at least an hour every day (except for those college hours, of course). While I won't strictly follow the official challenge rules, I'm excited to dive back into the coding world. My primary focus will be web development, with a special emphasis on JavaScript, HTML, and CSS. However, I won't limit myself to just that; I'll also be exploring the C language and diving into other programming languages as opportunities arise.
+I've decided to embark on the [100-day coding challenge](https://www.100daysofcode.com/), committing to code for at least an hour every day (except for those college hours, of course). While I won't strictly follow the official challenge rules, I'm excited to dive back into the coding world. My primary focus will be web development, with a special emphasis on JavaScript, HTML, and CSS. However, I won't limit myself to just that; I'll also be exploring the C language ([on another repository sometime](https://github.com/juutadei/Studying_C)) and diving into other programming languages as opportunities arise.
 
 ## What to Expect 📈
 
