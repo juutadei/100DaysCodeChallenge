@@ -1,6 +1,6 @@
 # 100DaysCodeChallenge
 
-![Coding Gif]([link-para-um-gif-animado-legal](https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif))
+![Coding Gif](https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif)
 
 Hey there! 👋 I'm back on GitHub after a bit of a hiatus, and I'm ready to take on a new challenge.
 
