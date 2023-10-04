@@ -11,5 +11,6 @@ I've just started my second project, a minimalist weather app. The inspiration f
 Materials Used:
 - <a href="https://boxicons.com/usage">Icons List</a>
 - <a href="https://fonts.google.com/specimen/Poppins?query=popp">Poppins font</a>
+<br>
 ![image](https://github.com/juutadei/100DaysCodeChallenge/assets/66650631/99ab58a5-3a7f-4ba8-b563-830cef07c333)
 
