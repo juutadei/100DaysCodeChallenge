@@ -1,9 +1,19 @@
 # 100DaysCodeChallenge
 
-So, I've decided to breathe life back into my GitHub after quite a long hiatus.
+![Coding Gif](https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif)
 
-I'm thinking about embarking on the 100-day challenge, committing to coding for at least an hour every day, excluding the hours I put into my college work. I won't strictly adhere to the official challenge rules because I won't be doing it in the conventional way. Additionally, I won't limit myself to a specific programming language during this period, although my primary focus will be on web development, striving to utilize JavaScript, HTML, and CSS as much as possible. I'll also be delving into the C language and exploring other languages should the opportunity arise.
+Hey there! 👋 I'm back on GitHub after a bit of a hiatus, and I'm ready to take on a new challenge.
 
-The idea is to work on a few small projects over these 100 days, starting with something modest and gradually taking on more extensive projects as time goes on. The reason I'm jumping into this rather suddenly is that I've been away from real coding for quite some time. It's been a while since I've been actively involved in this field, and I want to get back into it. I need to regain my familiarity with this world, and I won't deny that I also want to spruce up my GitHub profile.
+## The Challenge 🚀
 
-Today, I'm just initializing the repository. My plan is to kick things off this weekend (23/09/2023) and not skip a single day from then on. I'll be providing daily updates whenever I make modifications or embark on a new project.
+I've decided to embark on the [100-day coding challenge](https://www.100daysofcode.com/), committing to code for at least an hour every day (except for those college hours, of course). While I won't strictly follow the official challenge rules, I'm excited to dive back into the coding world. My primary focus will be web development, with a special emphasis on JavaScript, HTML, and CSS. However, I won't limit myself to just that; I'll also be exploring the C language ([In another repository sometimes](https://github.com/juutadei/Studying_C)) and diving into other programming languages as opportunities arise.
+
+## What to Expect 📈
+
+My plan is to work on various projects over these 100 days, starting with small, achievable goals and gradually taking on more ambitious projects as I progress. I'm doing this to reacquaint myself with coding after a bit of a break and to spruce up my GitHub profile. 
+
+## Updates 🗓️
+
+Today (23/09/2023), I'm initializing this repository as the starting point of my journey. I'll officially kick things off this weekend and won't miss a single day from then on. Be sure to stay tuned for daily updates as I make modifications, share my progress, and embark on exciting new projects.
+
+Let's code together and make the next 100 days count! 🎉

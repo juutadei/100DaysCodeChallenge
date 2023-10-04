@@ -2,14 +2,12 @@
 
 
 
-### Project 1: Café Menu
+### Project 1: Café Menu ☕
+While today (23/09/2023) was the official start date of the challenge, there were some minor delays (I promise, just a few 👀). To keep the momentum going, I began with a straightforward project from FreeCodeCamp. It's all about creating a café menu, a perfect choice to kickstart the challenge since it involves HTML and CSS. It's an excellent refresher!
 
-Even though today (23/09/2023) was the day I promised to start the challenge, there were some delays :eyes:. So, just to update before midnight, I started a very basic project from FreeCodeCamp that was about creating a café menu. I chose to start with it because it uses HTML and CSS, which helps me to remember a bit.
+### Project 2: Minimal Weather App 🌦️
+I've just started my second project, a minimalist weather app. The inspiration for this one came from the scorching heat records we're experiencing right now—definitely not a pleasant experience. The project is also inspired by the ASMRprog channel; I watched it and got inspired to create one myself.
 
-
-### Project 2: Minimal Weather App
-
-I'm just starting my second project now, it's a minimalist weather app. I got inspired by the heat records we're facing right now... not fun at all. The project is also inspired by the ASMRprog channel; I watched it and decided to make one myself.
-#### Materials:
-<a href="https://boxicons.com/usage">Icons List</a>
-<p><a href="https://fonts.google.com/specimen/Poppins?query=popp">Poppins font</a></p>
+Materials Used:
+- <a href="https://boxicons.com/usage">Icons List</a>
+- <a href="https://fonts.google.com/specimen/Poppins?query=popp">Poppins font</a>
