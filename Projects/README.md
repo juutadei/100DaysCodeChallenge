@@ -11,3 +11,10 @@ I've just started my second project, a minimalist weather app. The inspiration f
 Materials Used:
 - <a href="https://boxicons.com/usage">Icons List</a>
 - <a href="https://fonts.google.com/specimen/Poppins?query=popp">Poppins font</a>
+<br>
+
+![App_Image](https://github.com/juutadei/100DaysCodeChallenge/assets/66650631/d3177d51-b47d-49d7-942f-6ed6cdd771d2)
+
+### Project 3: Classic Form 📝
+The third project is going to be the classic HTML form. It's been a while since I've created a form, so it might take more than a day 🤡.
+And i'm also using a <a href="https://www.freecodecamp.org/learn">FreeCodeCamp project.</a>
