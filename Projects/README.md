@@ -18,6 +18,7 @@ Materials Used:
 ### Project 3: Classic Form 📝
 The third project is going to be the classic HTML form. It's been a while since I've created a form, so it might take more than a day 🤡.
 And i'm also using a <a href="https://www.freecodecamp.org/learn">FreeCodeCamp project.</a>
+<br>
 ![image](https://github.com/juutadei/100DaysCodeChallenge/assets/66650631/e21602b1-9ae7-4bc2-b9b1-ebd789d22798)
 
 
