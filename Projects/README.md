@@ -30,4 +30,7 @@ A modern login page with some JavaScript for the events.
 Inspired by ASMRprog also.
 
 ![image](https://github.com/juutadei/100DaysCodeChallenge/assets/66650631/118a1ae8-0982-4f9d-b714-318e6beb2f95)
+<br>
+![image](https://github.com/juutadei/100DaysCodeChallenge/assets/66650631/47cc4fca-0453-47ac-8652-5f16a2d35ff5)
+
 
