@@ -31,6 +31,7 @@ Inspired by ASMRprog also.
 
 ![image](https://github.com/juutadei/100DaysCodeChallenge/assets/66650631/118a1ae8-0982-4f9d-b714-318e6beb2f95)
 <br>
-![image](https://github.com/juutadei/100DaysCodeChallenge/assets/66650631/47cc4fca-0453-47ac-8652-5f16a2d35ff5)
+![image](https://github.com/juutadei/100DaysCodeChallenge/assets/66650631/f9ef29f5-7792-45c6-84c1-f3cb03e65058)
+
 
 
